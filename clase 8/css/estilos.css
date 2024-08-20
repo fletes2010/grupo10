@@ -1,0 +1,48 @@
+h1{color: blue;text-align: center;font-size:100px;
+            
+}
+
+.parrafo{
+    text-align: center;
+}
+
+.grande{
+    font-size: 50px;
+}
+
+
+*{
+    background-color: gold;
+
+}
+
+p.centrar{
+    text-align: center;
+}
+
+.rojo{
+    border: border-width: 5px; border-radius: 10px;
+
+}
+
+
+
+.rosa{
+     border: border-width: thick; 10px 5px 3px 2px;
+     dashed hotpink;
+}
+
+
+
+.amarillo{
+     border: border-width: medium 10px 5px 3px 2px;
+     double gold;
+}
+
+
+
+.azul{
+     border: border-width: thin 10px 5px 3px 2px;
+     dotted turquoise;
+}
+
