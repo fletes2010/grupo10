@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+}
+
+div {
+    border: 3px solid firebrick;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+
+div.contenedor{
+    border: 3px dashed greenyellow;
+    width: 30%;
+    height: 100px;
+    margin: auto;
+    overflow: hidden;
+}
+
+div.contenedor.flotado {
+    float: left;
+}
+
+div.contenedor.flotado.contenedor1 {
+    border: 3px dashed greenyellow;
+}
+
+div.contenedor.flotado.contenedor2 {
+    border: 3px dashed cornflowerblue;
+    float: right;
+}
+
+div.contenedor.contenedor3 {
+    clear: both;
+    border: 3px dashed darkorange;
+    margin: auto;
+}
